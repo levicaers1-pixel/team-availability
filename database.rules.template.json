@@ -37,7 +37,7 @@
         },
         "email": {
           ".write": "auth != null && root.child('players').child($pid).child('uid').val() === auth.uid",
-          ".validate": "newData.isString() && newData.val().length <= 100 && newData.val().matches(/^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$/)"
+          ".validate": "newData.isString() && newData.val().length <= 100 && newData.val().matches(/^[^ @]+@[^ @]+\\.[^ @]+$/)"
         },
         "fed": {
           ".write": "auth != null && root.child('players').child($pid).child('uid').val() === auth.uid",
