@@ -1,3 +1,6 @@
+> **Moved:** Pampas · Winter Midam now runs in **Rostiq** — https://levicaers1-pixel.github.io/rostiq/?t=pampas-wintermidam
+> (code: https://github.com/levicaers1-pixel/rostiq). The pages here only redirect there.
+
 # Rostiq
 
 Rostiq is a team planner by [Caersultancy](https://www.caersultancy.com): availability, calendar,
